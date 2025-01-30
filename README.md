@@ -7,4 +7,5 @@ All images in this repository is licensed under CC BY-NC-SA by Liming Cai, which
 List of content:
 
 1. Pilostyles thurberi
+   
 2-6. Paleomap of the world: 152-14 Ma. Reference: "Plate tectonic maps and Continental drift animations by C. R. Scotese, PALEOMAP Project (www.scotese.com)"
